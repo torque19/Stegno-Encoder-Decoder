@@ -5,10 +5,10 @@ It is also Known as one of the form stegnography called "generation".
 This Projects involves an development & production of an android & ios application which are able to take some text and convert it into some kind of image.
 
 
-Functionality of an application---
+# Functionality of an application---
    
    
-   ---->Encoder
+  #  ---->Encoder
             1. Take an input text or seceret text
             2. Encrypt it with any of cryptography algorithm.
             3. convert each word in a random image.
@@ -17,13 +17,14 @@ Functionality of an application---
   
   
   
-  ----->Decoder
+  # ----->Decoder
             1.Take Composite Image as an Input
             2.seperate all the image 
             3.apply cryptography algorithm.
             4.decrypt the text.
             5.Plain text as an output.
  
+ # FrameWorks & Languages
  
  The application Front-end is going to developed in React-Native framework.
  Back-end is developed using NodeJs & python.
