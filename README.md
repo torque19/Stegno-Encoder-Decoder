@@ -26,9 +26,9 @@ This Projects involves an development & production of an android & ios applicati
  
  # FrameWorks & Languages
  
- The application Front-end is going to developed in React-Native framework.
- Back-end is developed using NodeJs & python.
- Database: MongoDB & Mongoose.
+ Application Front-end - React-Native framework.
+ Back-end - NodeJs & python.
+ Database - MongoDB & Mongoose.
  Uses of Rest-API Can be easily Seen.
  
  
