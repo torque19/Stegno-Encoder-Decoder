@@ -6,13 +6,18 @@ This Projects involves an development & production of an android & ios applicati
 
 
 Functionality of an application---
+   
+   
    ---->Encoder
             1. Take an input text or seceret text
             2. Encrypt it with any of cryptography algorithm.
             3. convert each word in a random image.
             4. Combine all image and make an composite image.
             5. Composite image as an output.
-   ----->Decoder
+  
+  
+  
+  ----->Decoder
             1.Take Composite Image as an Input
             2.seperate all the image 
             3.apply cryptography algorithm.
@@ -24,5 +29,6 @@ Functionality of an application---
  Back-end is developed using NodeJs & python.
  Database: MongoDB & Mongoose.
  Uses of Rest-API Can be easily Seen.
+ 
  
  The Whole Development of the application will be completed till 15th March 2021.
