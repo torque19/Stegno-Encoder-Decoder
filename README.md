@@ -3,6 +3,8 @@ This is a Project which usually explore the area of Steganography and Cryptograp
 In this Project we will use the Concept of Data Hididng and Encryption & Decryption Concepts from Cryptography.
 It is also Known as one of the form stegnography called "generation".
 This Projects involves an development & production of an android & ios application which are able to take some text and convert it into some kind of image.
+
+
 Functionality of an application---
    ---->Encoder
             1. Take an input text or seceret text
@@ -16,6 +18,8 @@ Functionality of an application---
             3.apply cryptography algorithm.
             4.decrypt the text.
             5.Plain text as an output.
+ 
+ 
  The application Front-end is going to developed in React-Native framework.
  Back-end is developed using NodeJs & python.
  Database: MongoDB & Mongoose.
