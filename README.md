@@ -1,4 +1,4 @@
-# Stegno-Encoder-Decoder
+# Stegno-Encoder-Decoder(SEDSUITE)
 This is a Project which usually explore the area of Steganography and Cryptography.plication
 In this Project we will use the Concept of Data Hididng and Encryption & Decryption Concepts from Cryptography.
 It is also Known as one of the form stegnography called "generation".
