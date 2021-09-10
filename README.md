@@ -20,9 +20,9 @@ This is a Project which usually explore the area of Steganography and Cryptograp
 
 ### FrameWorks & Languages
 
-    - [ ] Application Front-end - React-Native framework.
-    [x] Back-end - NodeJs & python.
-    [x] Database - MongoDB & Mongoose.
-    [x] Uses of Rest-API Can be easily Seen.
+    Application Front-end - React-Native framework.
+    Back-end - NodeJs & python.
+    Database - MongoDB & Mongoose.
+    Uses of Rest-API Can be easily Seen.
 
 The Whole Development of the application will be completed till 15th March 2021.
