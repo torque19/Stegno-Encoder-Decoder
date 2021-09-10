@@ -1,4 +1,4 @@
-Stegno-Encoder-Decoder(SEDSUITE)
+#Stegno-Encoder-Decoder(SEDSUITE)
 
 This is a Project which usually explore the area of Steganography and Cryptography.plication In this Project we will use the Concept of Data Hididng and Encryption & Decryption Concepts from Cryptography. It is also Known as one of the form stegnography called "generation". This Projects involves an development & production of an android & ios application which are able to take some text and convert it into some kind of image.
 Functionality of the application---
